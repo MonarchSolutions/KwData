@@ -1,0 +1,4 @@
+The Test project and some Bench projects link to KwCombinatorics.dll.
+This library facilitates brute force testing by generating permutations.
+
+Source to KwCombinatorics.dll can be found at KwCombinatorics.CodePlex.com
